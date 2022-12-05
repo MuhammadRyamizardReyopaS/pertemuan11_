@@ -124,5 +124,3 @@ while True:
 ## Output
 ![ss2](ss2.PNG)
 
-## Flowchart
-gambar
