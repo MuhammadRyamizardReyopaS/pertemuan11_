@@ -22,7 +22,7 @@ print(d("buku"))
 ```
 
 ## Output
-![ss1](ss1.png)
+![ss1](ss1.PNG)
 
 ## TUGAS PRAKTIKUM
 Buat program sederhana dengan menggunakan fungsi yang akan menampilkan daftar nilai mahasiswa, Dengan ketentuan:
@@ -122,7 +122,7 @@ while True:
 ```
 
 ## Output
-![ss2](ss2.png)
+![ss2](ss2.PNG)
 
 ## Flowchart
 gambar
