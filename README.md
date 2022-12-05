@@ -22,7 +22,7 @@ print(d("buku"))
 ```
 
 ## Output
-gambar
+ss1.png
 
 ## TUGAS PRAKTIKUM
 Buat program sederhana dengan menggunakan fungsi yang akan menampilkan daftar nilai mahasiswa, Dengan ketentuan:
@@ -122,7 +122,7 @@ while True:
 ```
 
 ## Output
-gambar
+ss2.png
 
 ## Flowchart
 gambar
